@@ -2,9 +2,9 @@
 
 💻 Full-Stack Developer:
    - Front-end: HTML, CSS, JavaScript, React
-   - Back-end: Go, Java
+   - Back-end: Go, Java, C++
    - Database: MySQL
-   - Miscalleneous: Machine Learning, Python
+   - Currently Learning: Machine Learning, Python
 
 ☕ OOP Devotee:
    - Proficient in Java and C++, I believe in the power of clean, modular code and robust software architecture
